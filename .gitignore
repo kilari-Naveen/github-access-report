@@ -1,0 +1,10 @@
+# Ignore build and IDE files
+/target/
+.classpath
+.project
+.settings/
+/.mvn/wrapper/maven-wrapper.jar
+
+# Ignore OS files
+Thumbs.db
+*.log
